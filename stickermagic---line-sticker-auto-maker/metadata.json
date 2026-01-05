@@ -1,0 +1,6 @@
+
+{
+  "name": "StickerMagic - LINE Sticker Auto-Maker",
+  "description": "An automated tool to transform your photos into professional LINE stickers. Features AI background removal, grid slicing (3x3 or 4x4), and automatic 370x320px formatting with ZIP export.",
+  "requestFramePermissions": ["camera"]
+}
